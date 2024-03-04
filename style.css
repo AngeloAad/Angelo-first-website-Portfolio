@@ -1,0 +1,219 @@
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  @media screen and (max-width: 768px) {
+    
+  }
+
+  .navbar {
+    
+    height: 80px; 
+      color: white;
+      display: flex;
+      align-items: center;
+
+  }
+
+  .icon-text {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+  }
+
+  .icon-text img {
+    margin-left: 15px;
+    margin-right: 20px;
+    margin-top: 10px;
+  }
+
+  .khalesne-zih-aal-yamin {
+    padding-left: 290px;
+  }
+
+  .span {
+    font-size: 1.7rem;
+    font-weight: 600;
+  }
+
+  .div-for-a {
+    display: flex;
+  }
+
+  .a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+  }
+
+  .ph p{
+    color: white;
+    margin: 0;
+  }
+  .ph {
+    margin-left: 100px;
+    margin-top: 100px;
+  }
+
+  .ph1 {
+    font-size: 3.7rem;
+    font-weight: 600;
+  }
+  .ph2 {
+    padding-left: 90px;
+    font-size: 1.2rem;
+    font-weight: 350;
+  }
+  .ph3 {
+    padding-left: 56px;
+    font-size: 2rem;
+    font-weight: 600;
+  }
+
+  .Engineer {
+    color: rgb(17, 60, 201);
+  }
+
+  #get-to-know-me-button {
+    margin-left: 175px;
+    margin-top: 10px;
+    border-radius: 20px;
+    color: inherit;
+    text-decoration: none;
+  }
+  #get-to-know-me-button a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  .Heroes {
+    color: white;
+    padding-top: 150px;
+  }
+
+  .Heroes h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .Heroes p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .Hello {
+    color: rgb(17, 60, 201);
+  }
+
+  #btn {
+    border-radius: 20px;
+  }
+
+  .reasons {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+  }
+
+  .h2-reasons {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+  }
+
+  .icon-square {
+    width: 2rem;
+    height: 1rem;
+    border-radius: 0.75rem;
+  }
+
+  .reasons {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .h2-reasons-span {
+    font-size: 4rem;
+    color: rgb(17, 60, 201);
+  }
+
+ .fs-2 {
+    color: rgb(17, 60, 201);
+    font-size: 34px;
+ }
+
+ .row {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+ }
+ .skills h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+    margin-top: 150px;
+    margin-bottom: 30px;
+ }
+
+ .skills h2{
+    font-size: 3rem;
+    font-weight: 600;
+    color: rgb(17, 60, 201);
+    margin-bottom: 50px;
+ }
+ #h2-1 ul>li{
+    font-size: 15px;
+ }
+ #h2-2 ul>li{
+    font-size: 15px;
+ }
+ #h2-1 h2{
+    font-size: 1.5rem;
+    font-weight: 600;
+ }
+ #h2-2 h2{
+    font-size: 1.5rem;
+    font-weight: 600;
+ }
+ #h2-1 *{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ #h2-2 *{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .contact-me {
+    margin-top: 150px;
+    text-align: center; /* Optional: Center the content */
+  }
+  .contact-me h2 {
+    margin-bottom: 10px; /* Adjust the margin as needed */
+  }
+ .contact-me h2{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(17, 60, 201);
+ }
+ .contact-me button{
+    border-radius: 20px;
+ }
+ 
+ footer {
+    color: white;
+    margin-top: 150px;
+    padding: 10px;
+    text-align: center;
+ }
